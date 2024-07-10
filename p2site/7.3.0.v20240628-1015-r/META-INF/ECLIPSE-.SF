@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+Created-By: 21.0.3 (Eclipse Adoptium)
+SHA-384-Digest-Manifest: +2yemxZKs31PLPgUdf19SdH+/Qul6SmmtythiFOOv3smr7P
+ jzsYhzV3DCoHPMhpW
+SHA-384-Digest-Manifest-Main-Attributes: o3cw/HhUbnENSzyhOdrOD6Pdwti5sGA
+ +ALzSfFTJK+DYPDew7R1fY1AxGHSvD5k9
+
+Name: artifacts.jar
+SHA-384-Digest: 9ior9tKczKH8I63P2VpNmn3FrpCe/zID8tYE+Y/QonBoKzXm/Uyg70xj
+ ugzgEDQH
+
+Name: p2.index
+SHA-384-Digest: J9HLaO36qI0F3VCBjxj5LilXPbld4olhFrCKa+xkw9SRqyoD4Fvxaqmt
+ cKqgQnnc
+
+Name: content.xml.xz
+SHA-384-Digest: IjRKmgKs6uSFgQeuDhru1QMKAUm5s267N6gBPmoncrI6LL5n3MVN/Jl4
+ 8euhcQUP
+
+Name: features/net.sourceforge.pmd.eclipse_7.3.0.v20240628-1015-r.jar
+SHA-384-Digest: wEAdSP+I8nNC7+5ZcLcRPjcsmJ62+DQPwR1klI7F/MfuPQ4zVwWwfADW
+ bPWvCVFi
+
+Name: content.jar
+SHA-384-Digest: I7AsX67ztr2FES5yG1/NSaZ9vCbZ5Undi82K4qHfa4WaPzZ6LESfydnM
+ MCqTInd1
+
+Name: artifacts.xml.xz
+SHA-384-Digest: sbvRvsHOwLkBsUVw1pdIawh1YElO69AuMt2GGVbqoIhZiMFk40XWFNtE
+ 60VzaQ4Q
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_7.3.0.v20240628-1015-r.
+ jar
+SHA-384-Digest: kitmdYY0ng8KTvYvp7sUuPPzBz0oDjhKgsOE3slAA0WyObPKdzQO2fTH
+ +VVJpXjC
+
